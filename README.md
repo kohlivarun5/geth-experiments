@@ -75,4 +75,4 @@ contractInstance = MyContract.new({
 
 # Next steps
 - Build a web UI for looking into the blockchain: http://hypernephelist.com/2016/06/21/a-simple-smart-contract-ui-web3.html
-- Integrate into existing backends
+- Integrate into existing backends using python, such as http://web3py.readthedocs.io/en/latest/quickstart.html
