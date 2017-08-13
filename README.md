@@ -71,3 +71,8 @@ contractInstance = MyContract.new({
   })
 ```
 - Mine the contract using `miner.start()` then `miner.stop()`
+
+
+# Next steps
+- Build a web UI for looking into the blockchain: http://hypernephelist.com/2016/06/21/a-simple-smart-contract-ui-web3.html
+- Integrate into existing backends
