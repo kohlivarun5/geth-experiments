@@ -26,7 +26,7 @@ In the `console-window`:
 In the `console-window`:
 - Create account: `personal.newAccount('')`
 - Transfer coin: `web3.eth.sendTransaction({to:eth.accounts[1],value:1000})`
-- You might need to unlock account using `personal.unlockAccount(eth.accounts[0],account1, '')`
+- You might need to unlock account using `personal.unlockAccount(eth.accounts[0],'')`
 - `miner.start()` then `miner.stop()`
 - Check balance: `web3.eth.getBalance(eth.accounts[1])`
 
